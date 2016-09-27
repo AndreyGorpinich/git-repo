@@ -1,5 +1,5 @@
 <?
-$_SERVER["DOCUMENT_ROOT"] = "/var/www/html/t3.licom-s.ru/www";
+//$_SERVER["DOCUMENT_ROOT"] = "путь для крон";
 $DOCUMENT_ROOT = $_SERVER["DOCUMENT_ROOT"];
 
 define("NO_KEEP_STATISTIC", true);
