@@ -1,0 +1,5 @@
+<?php
+
+$MESS['BEX_D7DULL_MODULE_NAME'] = 'Модуль для задач';
+$MESS['BEX_D7DULL_MODULE_DESCRIPTION'] = '';
+$MESS['BEX_D7DULL_MODULE_PARTNER_NAME'] = 'vek3w.ru';
