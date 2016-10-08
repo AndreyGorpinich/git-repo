@@ -32,7 +32,6 @@ $day = 86400;
 // кол-во секунд в  сутках
 $l_13_day = $today + ($day*13);
 $l_15_day = $today + ($day*15);
-// дата, которая была 30 дней назад
 $DateFrom = date($php_format, $l_13_day);
 $DateFt = date($php_format, $l_15_day);
 // текущая дата в формате текущего сайта
